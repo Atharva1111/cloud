@@ -1,5 +1,5 @@
-body {
-    margin: 0px;
+.ui-wrapper {
+    border: 1px solid black;
 }
 
 .main {
@@ -23,7 +23,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 25px;
+    padding: 40px;
 }
 
 .main__controls {
